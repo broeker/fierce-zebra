@@ -1,1 +1,9 @@
-{}
+{
+  "main": [
+    {
+      "identifier": "foo",
+      "title": "foo",
+      "url": "http://foo.com"
+    }
+  ]
+}
